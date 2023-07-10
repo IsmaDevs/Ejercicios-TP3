@@ -1,0 +1,6 @@
+C:\Users\W10-PC\documents\visual studio 2015\Projects\TPN1Lab-I\TPN3Lab-I\bin\Debug\TPN3Lab-I.exe.config
+C:\Users\W10-PC\documents\visual studio 2015\Projects\TPN1Lab-I\TPN3Lab-I\bin\Debug\TPN3Lab-I.exe
+C:\Users\W10-PC\documents\visual studio 2015\Projects\TPN1Lab-I\TPN3Lab-I\bin\Debug\TPN3Lab-I.pdb
+C:\Users\W10-PC\documents\visual studio 2015\Projects\TPN1Lab-I\TPN3Lab-I\obj\Debug\TPN3Lab-I.exe
+C:\Users\W10-PC\documents\visual studio 2015\Projects\TPN1Lab-I\TPN3Lab-I\obj\Debug\TPN3Lab-I.pdb
+C:\Users\W10-PC\documents\visual studio 2015\Projects\TPN1Lab-I\TPN3Lab-I\obj\Debug\TPN3Lab-I.csprojResolveAssemblyReference.cache
